@@ -2,7 +2,7 @@ hellox.txt
 welcome!!!
 Hi!
 hey!
-[br-rel01] 안녕
+[br-rel01] 안녕!!
 good!
 [master] 안녕하세요!
 THE END
