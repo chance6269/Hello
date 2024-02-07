@@ -2,5 +2,6 @@ hellox.txt
 welcome!!!
 Hi!
 hey!
+[br-rel01] 안녕
 good!
 THE END
